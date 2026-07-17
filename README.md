@@ -13,25 +13,71 @@
 
 <br/>
 
+### 👋 About Me
+I'm a **Data Science student** with hands-on experience in **e-commerce analytics** and **Meta Ads management** — passionate about turning raw data into decisions using **Python, SQL, and AI-driven automation**, while building real, deployed projects like NeuroEcom.BI.
+
+<br/>
+
 ## 🧩 Who I Am
 
-```typescript
-const zanuuMughal = {
-  title: "Data Science Student",
-  stack: {
-    languages: ["Python", "C", "C#"],
-    concepts: ["OOP"],
-    database: ["SQL", "SSMS"],
-    aiTools: ["Antigravity", "Cursor", "Codex", "AI Automation"],
-    ecommerceMarketing: ["Shopify", "Meta Ads", "Digital Marketing"],
-    analytics: ["Power BI", "Excel"],
-  },
-  launchedProjects: ["My-Portfolio-Webiste", "NeuroEcom.BI"],
-  certifications: [],
-  status: "Learning, building, and shipping data-driven projects",
-  openTo: ["Data Science Internships", "E-commerce Analytics Roles", "AI Automation Projects"],
-};
-```
+<table width="100%">
+<tr>
+<td width="30%"><b>🎓 Title</b></td>
+<td>Data Science Student</td>
+</tr>
+<tr>
+<td><b>🧠 Core Stack</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-7dd3fc?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td><b>🗄️ Database</b></td>
+<td>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>🤖 AI Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Antigravity-7dd3fc?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Automation-0ea5e9?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td><b>📈 E-commerce & Marketing</b></td>
+<td>
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Meta%20Ads-0668E1?style=flat-square&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Digital%20Marketing-7dd3fc?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td><b>📊 Analytics</b></td>
+<td>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>🚀 Launched Projects</b></td>
+<td>My-Portfolio-Webiste &nbsp;•&nbsp; NeuroEcom.BI</td>
+</tr>
+<tr>
+<td><b>✅ Status</b></td>
+<td>Learning, building, and shipping data-driven projects</td>
+</tr>
+<tr>
+<td><b>🎯 Open To</b></td>
+<td>Data Science Internships &nbsp;•&nbsp; E-commerce Analytics Roles &nbsp;•&nbsp; AI Automation Projects</td>
+</tr>
+</table>
 
 <br/>
 
@@ -68,28 +114,53 @@ const zanuuMughal = {
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
-<img src="https://skillicons.dev/icons?i=py,c,cs" />
+**💻 Languages & Programming**
 
-**Database**
+<img src="https://skillicons.dev/icons?i=py,c,cs" /><br/>
+<img src="https://img.shields.io/badge/OOP-7dd3fc?style=for-the-badge" />
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+**📊 Data Science & Analysis**
 
-**AI & Dev Tools**
+<img src="https://skillicons.dev/icons?i=mysql,jupyter" /><br/>
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+**🤖 AI & Automation**
 
-**E-commerce & Marketing**
+<img src="https://skillicons.dev/icons?i=vscode" /><br/>
+![Antigravity](https://img.shields.io/badge/Antigravity-7dd3fc?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI%20Automation-0ea5e9?style=for-the-badge)
+
+</td>
+<td valign="top" width="50%">
+
+**📈 Digital Marketing & E-commerce**
 
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white)
 ![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-7dd3fc?style=for-the-badge)
+![ROAS](https://img.shields.io/badge/ROAS%20%26%20Conversion%20Tracking-0ea5e9?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-7dd3fc?style=for-the-badge)
+![Audience Segmentation](https://img.shields.io/badge/Audience%20Segmentation-0ea5e9?style=for-the-badge)
 
-**Analytics**
+**🧰 Dev Tools & Platforms**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+**🗄️ Database**
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
