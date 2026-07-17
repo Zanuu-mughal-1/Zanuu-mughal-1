@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Zanuu%20Mughal&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20Student&descAlignY=55&descSize=20" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Zain%20UL%20Abdeen%20Mughal&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20Student&descAlignY=55&descSize=20" width="100%"/>
+l
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Data+Science+Student;Python+%7C+C+%7C+C%23+Developer;E-commerce+%26+BI+Analytics;AI+Automation+Enthusiast;Building+NeuroEcom.BI" alt="Typing SVG" />
 </a>
