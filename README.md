@@ -28,8 +28,8 @@ Currently building practical data projects with a focus on **predictive analytic
 
 <table width="100%">
 <tr>
-<td width="110" align="center" valign="middle">
-<img src="./assets/uet.svg" width="82" alt="UET Lahore"/>
+<td width="95" align="center" valign="middle">
+<img src="https://img.shields.io/badge/UET-0B3B70?style=for-the-badge&logo=academia&logoColor=white" width="82" alt="UET Lahore"/>
 </td>
 <td valign="middle">
 
@@ -52,7 +52,7 @@ Currently building practical data projects with a focus on **predictive analytic
 
 <td width="50%" valign="top">
 
-<img src="./assets/decodelabs.svg" width="42" align="left" alt="Decodelabs"/>
+<img src="https://img.shields.io/badge/Decodelabs-111827?style=for-the-badge&logo=databricks&logoColor=38BDF8" height="30" alt="Decodelabs"/>
 
 ### Data Science Intern
 
@@ -69,7 +69,7 @@ Lahore, Pakistan · Remote
 
 <td width="50%" valign="top">
 
-<img src="./assets/ineubytes.svg" width="42" align="left" alt="iNeuBytes"/>
+<img src="https://img.shields.io/badge/iNeuBytes-0F766E?style=for-the-badge&logo=python&logoColor=white" height="30" alt="iNeuBytes"/>
 
 ### Data Scientist
 
@@ -90,7 +90,7 @@ Lahore, Pakistan · Remote
 
 <td width="50%" valign="top">
 
-<img src="./assets/web3geeks.svg" width="42" align="left" alt="Web3 Geeks"/>
+<img src="https://img.shields.io/badge/Web3%20Geeks-312E81?style=for-the-badge&logo=web3dotjs&logoColor=white" height="30" alt="Web3 Geeks"/>
 
 ### Data Science Intern
 
@@ -107,7 +107,7 @@ Lahore, Pakistan · Remote
 
 <td width="50%" valign="top">
 
-<img src="./assets/10pearls.svg" width="42" align="left" alt="10Pearls"/>
+<img src="https://img.shields.io/badge/10Pearls-111827?style=for-the-badge&logo=datadog&logoColor=A78BFA" height="30" alt="10Pearls"/>
 
 ### Data Science Intern
 
@@ -128,7 +128,7 @@ Lahore, Pakistan · Remote
 
 <td width="50%" valign="top">
 
-<img src="./assets/innomatics.svg" width="42" align="left" alt="Innomatics Research Labs"/>
+<img src="https://img.shields.io/badge/Innomatics%20Research%20Labs-0F3B63?style=for-the-badge&logo=jupyter&logoColor=38BDF8" height="30" alt="Innomatics Research Labs"/>
 
 ### Data Science Intern
 
@@ -143,9 +143,7 @@ Lahore, Pakistan · Remote
 
 </td>
 
-<td width="50%" valign="top">
-
-</td>
+<td width="50%" valign="top"></td>
 
 </tr>
 </table>
