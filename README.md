@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0f3b63,100:0284c7&height=210&section=header&text=Zain%20Ul%20Abdeen%20Mughal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20Data%20Scientist&descAlignY=58&descSize=20" width="100%"/>
 
-<br>
-
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Data+Science+%7C+Machine+Learning;Python+%7C+SQL+%7C+Statistics;Data+Analytics+%7C+Business+Intelligence;Predictive+Analytics+%7C+AI" />
 </a>
@@ -30,13 +28,9 @@ Currently building practical data projects with a focus on **predictive analytic
 
 <table width="100%">
 <tr>
-
-<td width="120" align="center" valign="middle">
-
-<img src="https://www.uet.edu.pk/images/logo.png" width="100">
-
+<td width="110" align="center" valign="middle">
+<img src="./assets/uet.svg" width="82" alt="UET Lahore"/>
 </td>
-
 <td valign="middle">
 
 ### University of Engineering & Technology, Lahore
@@ -46,7 +40,6 @@ Currently building practical data projects with a focus on **predictive analytic
 `2025 – 2028`
 
 </td>
-
 </tr>
 </table>
 
@@ -58,6 +51,8 @@ Currently building practical data projects with a focus on **predictive analytic
 <tr>
 
 <td width="50%" valign="top">
+
+<img src="./assets/decodelabs.svg" width="42" align="left" alt="Decodelabs"/>
 
 ### Data Science Intern
 
@@ -73,6 +68,8 @@ Lahore, Pakistan · Remote
 </td>
 
 <td width="50%" valign="top">
+
+<img src="./assets/ineubytes.svg" width="42" align="left" alt="iNeuBytes"/>
 
 ### Data Scientist
 
@@ -93,6 +90,8 @@ Lahore, Pakistan · Remote
 
 <td width="50%" valign="top">
 
+<img src="./assets/web3geeks.svg" width="42" align="left" alt="Web3 Geeks"/>
+
 ### Data Science Intern
 
 **Web3 Geeks**
@@ -107,6 +106,8 @@ Lahore, Pakistan · Remote
 </td>
 
 <td width="50%" valign="top">
+
+<img src="./assets/10pearls.svg" width="42" align="left" alt="10Pearls"/>
 
 ### Data Science Intern
 
@@ -127,6 +128,8 @@ Lahore, Pakistan · Remote
 
 <td width="50%" valign="top">
 
+<img src="./assets/innomatics.svg" width="42" align="left" alt="Innomatics Research Labs"/>
+
 ### Data Science Intern
 
 **Innomatics Research Labs**
@@ -141,8 +144,6 @@ Lahore, Pakistan · Remote
 </td>
 
 <td width="50%" valign="top">
-
-### 
 
 </td>
 
@@ -322,5 +323,3 @@ Lahore, Pakistan · Remote
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:0b1220&height=100&section=footer" width="100%"/>
-
-</div>
