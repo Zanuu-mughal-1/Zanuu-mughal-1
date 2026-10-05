@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:0ea5e9&height=230&section=header&text=Zain%20Ul%20Abdeen%20Mughal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20Data%20Scientist&descAlignY=58&descSize=20" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:0ea5e9&height=210&section=header&text=Zain%20Ul%20Abdeen%20Mughal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20Data%20Scientist&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Data+Science+Student;Python+%7C+SQL+%7C+Statistics;Data+Analysis+%7C+Machine+Learning;Business+Intelligence+%7C+Predictive+Analytics;Building+Real-World+Data+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Data+Science+%7C+Machine+Learning;Python+%7C+SQL+%7C+Statistics;Data+Analytics+%7C+Business+Intelligence;Predictive+Analytics+%7C+AI" />
 </a>
 
 <br/><br/>
@@ -18,294 +16,134 @@
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
-I'm a **Data Science student** focused on transforming raw data into meaningful insights, predictive solutions, and data-driven decisions.
+**Data Science student** with hands-on experience across **Data Science and Data Scientist internships**, focused on **data analysis, machine learning, statistics, SQL, and AI-driven solutions**.
 
-I have gained practical industry exposure through multiple **Data Science and Data Scientist internship roles**, working with data analysis, statistical techniques, data preparation, and real-world problem solving.
-
-My primary interests include **Data Analysis, Machine Learning, Statistical Analysis, Business Intelligence, Predictive Analytics, and AI-driven data solutions**.
-
-I enjoy building complete projects — from **data collection and cleaning to analysis, modeling, visualization, and deployment-oriented applications**.
+Currently building practical, end-to-end data projects and strengthening expertise in **Machine Learning, Predictive Analytics, and Business Intelligence**.
 
 ---
 
-# 💼 Professional Experience
+## 💼 Experience
 
-### 🔹 Data Science Intern — Decodelabs
-**Apr 2026 – Aug 2026 · Lahore, Pakistan · Remote**
-
-- Worked with data maintenance and structured data workflows.
-- Performed statistical data analysis to support data-driven insights.
-- Assisted with data preparation, organization, and analysis tasks.
-- Applied analytical thinking to real-world datasets and business problems.
-
----
-
-### 🔹 Data Scientist — iNeuBytes
-**Jan 2026 · Lahore, Pakistan · Remote**
-
-- Worked in a Data Scientist internship environment.
-- Applied data science concepts to practical problems.
-- Gained exposure to professional data workflows and analytical problem solving.
+| Role | Organization | Period |
+|---|---|---|
+| **Data Science Intern** | Decodelabs | Apr 2026 – Aug 2026 |
+| **Data Scientist** | iNeuBytes | Jan 2026 |
+| **Data Science Intern** | Web3 Geeks | Nov 2025 |
+| **Data Science Intern** | 10Pearls Pakistan | Oct 2025 |
+| **Data Science Intern** | Innomatics Research Labs | Sep – Oct 2025 |
 
 ---
 
-### 🔹 Data Science Intern — Web3 Geeks
-**Nov 2025 · Lahore, Pakistan · Remote**
+## 🎓 Education
 
-- Worked with practical Data Science concepts and analytical workflows.
-- Developed experience in data-driven problem solving and technical analysis.
-
----
-
-### 🔹 Data Science Intern — 10Pearls Pakistan
-**Oct 2025 · Lahore, Pakistan · Remote**
-
-- Gained professional exposure to data-oriented software environments.
-- Worked with Data Science concepts and practical technical workflows.
+**University of Engineering and Technology (UET), Lahore**  
+**B.Sc. Data Science · 2025–2028**
 
 ---
 
-### 🔹 Data Science Intern — Innomatics Research Labs
-**Sep 2025 – Oct 2025 · Lahore, Pakistan · Remote**
+## 🚀 Selected Projects
 
-- Developed practical experience with Data Science workflows.
-- Worked with data analysis and statistical concepts.
-- Strengthened problem-solving skills through practical data projects.
+### 🧠 NeuroEcom.BI
 
----
+**E-commerce Intelligence & Analytics Platform**
 
-# 🎓 Education
+`Python` `SQL Server` `C#` `ASP.NET Core` `React` `Power BI` `AI`
 
-### University of Engineering and Technology (UET), Lahore
+<a href="https://github.com/Zanuu-mughal-1/NeuroEcom.BI">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-**Bachelor's Degree — Data Science**
+### 🌐 My Portfolio Website
 
-**2025 – 2028**
+**Personal Technical Portfolio**
 
-Relevant Coursework:
+`HTML` `CSS` `JavaScript`
 
-`Programming` · `Object-Oriented Programming` · `Database Systems` · `Statistics` · `Calculus` · `Discrete Mathematics` · `Data Structures` · `Artificial Intelligence` · `Data Analysis`
-
----
-
-# 🧠 Data Science Expertise
-
-### 📊 Data Analysis
-
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Preprocessing
-- Data Transformation
-- Feature Engineering
-- Statistical Analysis
-- Descriptive Statistics
-- Data Visualization
-- Correlation & Relationship Analysis
-- Business Analytics
-
-### 🤖 Machine Learning
-
-- Supervised Learning
-- Unsupervised Learning
-- Regression
-- Classification
-- Clustering
-- Model Evaluation
-- Feature Selection
-- Predictive Analytics
-- Train / Validation / Test Workflows
-
-### 📈 Statistics
-
-- Descriptive Statistics
-- Probability
-- Distributions
-- Correlation
-- Hypothesis Testing
-- Statistical Inference
-- Regression Analysis
-
-### 🗄️ Data & Databases
-
-- SQL
-- Relational Databases
-- Data Querying
-- Data Aggregation
-- Joins
-- Subqueries
-- Data Cleaning with SQL
-- SQL Server
-
-### 📊 Business Intelligence
-
-- Power BI
-- Dashboard Development
-- KPI Analysis
-- Business Reporting
-- E-commerce Analytics
-- Customer Analytics
-- Sales Analytics
+<a href="https://github.com/Zanuu-mughal-1/My-Portfolio-Webiste">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-# 🛠️ Technical Stack
+## 🧠 Data Science Stack
 
-## 🐍 Programming & Data Science
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cs" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,mysql,jupyter,git,github,vscode" />
 
-<p>
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
----
+<br/>
 
-## 📉 Data Visualization
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statistics-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Predictive%20Analytics-7C3AED?style=for-the-badge"/>
 
-<p>
+<br/>
+
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🤖 Machine Learning
+## 📊 Core Competencies
 
-<p>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Predictive%20Analytics-7C3AED?style=for-the-badge"/>
-</p>
+`EDA` · `Data Cleaning` · `Feature Engineering` · `Statistical Analysis` · `Hypothesis Testing` · `Regression` · `Classification` · `Clustering` · `Model Evaluation` · `Predictive Modeling` · `Data Visualization` · `Business Intelligence` · `SQL Analytics`
 
 ---
 
-## 🗄️ SQL & Databases
+## 📈 GitHub
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Zanuu-mughal-1&show_icons=true&hide_border=true&theme=github_dark&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0d1117" width="49%"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanuu-mughal-1&layout=compact&hide_border=true&theme=github_dark&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117" width="49%"/>
 
-## 📓 Data Science Environment
+<br/><br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=jupyter,vscode,git,github" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Zanuu-mughal-1&theme=github-dark-blue&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8"/>
 
-<p>
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 🎯 Focus
 
-## 🧠 NeuroEcom.BI
+**Data Science · Machine Learning · Statistics · SQL · Predictive Analytics · Business Intelligence · AI**
 
-> **Intelligent E-commerce Business Intelligence & Analytics Platform**
+---
 
-NeuroEcom.BI is an end-to-end platform designed to transform e-commerce data into actionable business intelligence, analytics, and predictive insights.
+<div align="center">
 
-### Core Capabilities
-
-- 📊 Sales & Revenue Analytics
-- 👥 Customer Analytics
-- 📦 Product Performance Analysis
-- 🔄 Returns & RTO Analytics
-- 📈 Business Intelligence Dashboards
-- 🤖 Predictive Analytics
-- 🧠 AI-assisted Decision Making
-- 📉 Performance & KPI Monitoring
-
-### Architecture
-
-| Layer | Technology |
-|---|---|
-| Backend | C# / ASP.NET Core |
-| Database | SQL Server |
-| Data Analysis | Python |
-| Analytics | Power BI |
-| Frontend | React |
-| Intelligence | Machine Learning / AI |
-
-<a href="https://github.com/Zanuu-mughal-1/NeuroEcom.BI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zanuu-mughal-1&repo=NeuroEcom.BI&theme=github_dark&border_color=0ea5e9&title_color=38bdf8" />
+<a href="https://github.com/Zanuu-mughal-1">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
-
-## 🌐 My Portfolio Website
-
-> Personal portfolio showcasing projects, technical skills, case studies, and professional experience.
-
-### Technology
-
-`HTML` · `CSS` · `JavaScript`
-
-<a href="https://github.com/Zanuu-mughal-1/My-Portfolio-Webiste">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zanuu-mughal-1&repo=My-Portfolio-Webiste&theme=github_dark&border_color=0ea5e9&title_color=38bdf8" />
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
----
+<br/><br/>
 
-# 📊 Data Science Workflow
+<sub>Turning Data Into Insights • Building Intelligent Solutions</sub>
 
-```text
-          ┌─────────────────────┐
-          │     Raw Data        │
-          └──────────┬──────────┘
-                     ↓
-          ┌─────────────────────┐
-          │ Data Collection     │
-          │ & Preparation       │
-          └──────────┬──────────┘
-                     ↓
-          ┌─────────────────────┐
-          │ Data Cleaning       │
-          │ & Preprocessing     │
-          └──────────┬──────────┘
-                     ↓
-          ┌─────────────────────┐
-          │ Exploratory         │
-          │ Data Analysis       │
-          └──────────┬──────────┘
-                     ↓
-          ┌─────────────────────┐
-          │ Statistical         │
-          │ Analysis            │
-          └──────────┬──────────┘
-                     ↓
-          ┌─────────────────────┐
-          │ Feature Engineering │
-          └──────────┬──────────┘
-                     ↓
-          ┌─────────────────────┐
-          │ Machine Learning    │
-          │ & Modeling          │
-          └──────────┬──────────┘
-                     ↓
-          ┌─────────────────────┐
-          │ Evaluation &        │
-          │ Interpretation      │
-          └──────────┬──────────┘
-                     ↓
-          ┌─────────────────────┐
-          │ Insights &          │
-          │ Decision Making     │
-          └─────────────────────┘
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=100&section=footer" width="100%"/>
+
+</div>
