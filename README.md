@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:0ea5e9&height=210&section=header&text=Zain%20Ul%20Abdeen%20Mughal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20Data%20Scientist&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:0f3b63,100:0284c7&height=210&section=header&text=Zain%20Ul%20Abdeen%20Mughal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20Data%20Scientist&descAlignY=58&descSize=20" width="100%"/>
 
 <br>
 
@@ -18,175 +18,169 @@
 
 ---
 
-## 👋 About Me
+## About
 
-**Data Science student** with hands-on experience across **Data Science and Data Scientist internships**, focused on **Python, SQL, statistics, machine learning, data analytics, and AI-driven solutions**.
+Data Science student with hands-on experience across **Data Science and Data Scientist roles**, focused on **Python, SQL, statistics, machine learning, data analytics, and AI-driven solutions**.
 
-Currently building practical data projects and developing expertise in **predictive analytics, business intelligence, and machine learning**.
+Currently building practical data projects with a focus on **predictive analytics, business intelligence, and machine learning**.
 
 ---
 
-## 🎓 Education
+## Education
 
-<table>
+<table width="100%">
 <tr>
-<td width="110">
 
-<img src="https://www.google.com/s2/favicons?domain=uet.edu.pk&sz=128" width="85">
+<td width="120" align="center" valign="middle">
+
+<img src="https://www.uet.edu.pk/images/logo.png" width="100">
 
 </td>
 
-<td>
+<td valign="middle">
 
-### University of Engineering and Technology (UET), Lahore
+### University of Engineering & Technology, Lahore
 
-**B.Sc. Data Science**  
+**B.Sc. Data Science**
+
 `2025 – 2028`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 💼 Professional Experience
-
-<table width="100%">
-
-<tr>
-<td width="85">
-
-<img src="https://www.google.com/s2/favicons?domain=decodelabs.com&sz=128" width="65">
-
-</td>
-
-<td>
-
-<b>Data Science Intern</b><br>
-<b>Decodelabs</b> · Remote<br>
-<sub>Apr 2026 – Aug 2026 · Lahore, Pakistan</sub>
-
-<br>
-
-Data Maintenance · Statistical Analysis · Data Preparation
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://www.google.com/s2/favicons?domain=ineubytes.com&sz=128" width="65">
-
-</td>
-
-<td>
-
-<b>Data Scientist</b><br>
-<b>iNeuBytes</b> · Remote<br>
-<sub>Jan 2026 · Lahore, Pakistan</sub>
-
-<br>
-
-Data Science Workflows · Analytics · Problem Solving
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://www.google.com/s2/favicons?domain=web3geeks.com&sz=128" width="65">
-
-</td>
-
-<td>
-
-<b>Data Science Intern</b><br>
-<b>Web3 Geeks</b> · Remote<br>
-<sub>Nov 2025 · Lahore, Pakistan</sub>
-
-<br>
-
-Data Analysis · Technical Problem Solving · Data-Driven Insights
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://www.google.com/s2/favicons?domain=10pearls.com&sz=128" width="65">
-
-</td>
-
-<td>
-
-<b>Data Science Intern</b><br>
-<b>10Pearls Pakistan</b> · Remote<br>
-<sub>Oct 2025 · Lahore, Pakistan</sub>
-
-<br>
-
-Data-Oriented Workflows · Analytics · Technical Environment
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<img src="https://www.google.com/s2/favicons?domain=innomatics.in&sz=128" width="65">
-
-</td>
-
-<td>
-
-<b>Data Science Intern</b><br>
-<b>Innomatics Research Labs</b> · Remote<br>
-<sub>Sep 2025 – Oct 2025 · Lahore, Pakistan</sub>
-
-<br>
-
-Data Analysis · Statistics · Real-World Data Projects
-
-</td>
-</tr>
-
-</table>
-
----
-
-## 🚀 Selected Projects
+## Professional Experience
 
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-### 🧠 NeuroEcom.BI
+### Data Science Intern
+
+**Decodelabs**
+
+`Apr 2026 – Aug 2026`
+
+Lahore, Pakistan · Remote
+
+**Data Maintenance** · **Statistical Analysis**  
+**Data Preparation** · **Data Processing**
+
+</td>
+
+<td width="50%" valign="top">
+
+### Data Scientist
+
+**iNeuBytes**
+
+`Jan 2026`
+
+Lahore, Pakistan · Remote
+
+**Data Science** · **Analytics**  
+**Problem Solving** · **Data Workflows**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Data Science Intern
+
+**Web3 Geeks**
+
+`Nov 2025`
+
+Lahore, Pakistan · Remote
+
+**Data Analysis** · **Technical Analysis**  
+**Data-Driven Insights**
+
+</td>
+
+<td width="50%" valign="top">
+
+### Data Science Intern
+
+**10Pearls Pakistan**
+
+`Oct 2025`
+
+Lahore, Pakistan · Remote
+
+**Data Workflows** · **Analytics**  
+**Technical Problem Solving**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Data Science Intern
+
+**Innomatics Research Labs**
+
+`Sep 2025 – Oct 2025`
+
+Lahore, Pakistan · Remote
+
+**Data Analysis** · **Statistics**  
+**Data Science Projects**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Selected Projects
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### NeuroEcom.BI
 
 **E-commerce Intelligence & Analytics Platform**
 
-`Python` `SQL` `Power BI`  
+`Python` `SQL Server` `Power BI`  
 `C#` `ASP.NET Core` `React` `AI`
 
 <a href="https://github.com/Zanuu-mughal-1/NeuroEcom.BI">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0284c7?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌐 My Portfolio Website
+### My Portfolio Website
 
 **Personal Technical Portfolio**
 
 `HTML` `CSS` `JavaScript`
 
 <a href="https://github.com/Zanuu-mughal-1/My-Portfolio-Webiste">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0ea5e9?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0284c7?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -196,43 +190,39 @@ Data Analysis · Statistics · Real-World Data Projects
 
 ---
 
-## 🧠 Data Science Stack
+## Technical Stack
 
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-### 🐍 Programming & Data
+### Data Science
 
-<img src="https://skillicons.dev/icons?i=python,c,cs" />
-
-<br><br>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 <br>
 
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🗄️ Data & Databases
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<br><br>
+### Data & Databases
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Advanced%20SQL-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 </td>
@@ -243,7 +233,7 @@ Data Analysis · Statistics · Real-World Data Projects
 
 <td width="50%" valign="top">
 
-### 📊 Analytics & Visualization
+### Analytics & Visualization
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
@@ -253,28 +243,19 @@ Data Analysis · Statistics · Real-World Data Projects
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 Machine Learning & AI
+### Machine Learning
 
-<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Predictive%20Analytics-7C3AED?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Regression-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Regression-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Classification-4338CA?style=for-the-badge"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/Clustering-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Solutions-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Predictive%20Analytics-7C3AED?style=for-the-badge"/>
 
 </td>
 
@@ -283,7 +264,7 @@ Data Analysis · Statistics · Real-World Data Projects
 
 ---
 
-## 📌 Core Competencies
+## Core Competencies
 
 <div align="center">
 
@@ -295,13 +276,13 @@ Data Analysis · Statistics · Real-World Data Projects
 
 `Predictive Modeling` · `Data Visualization` · `SQL Analytics`
 
-`Business Intelligence` · `Data Interpretation` · `Problem Solving`
+`Business Intelligence` · `Data Interpretation`
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -309,15 +290,11 @@ Data Analysis · Statistics · Real-World Data Projects
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanuu-mughal-1&layout=compact&hide_border=true&theme=github_dark&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117" width="49%"/>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Zanuu-mughal-1&theme=github-dark-blue&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8"/>
-
 </div>
 
 ---
 
-## 🎯 Focus
+## Focus
 
 <div align="center">
 
@@ -344,6 +321,6 @@ Data Analysis · Statistics · Real-World Data Projects
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:0b1220&height=100&section=footer" width="100%"/>
 
 </div>
